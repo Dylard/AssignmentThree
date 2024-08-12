@@ -1,0 +1,20 @@
+Start
+
+    Set up the variables
+
+    Use a for loop to ask the user for 5 numbers add count by 1
+        Ask the user to enter a number
+
+        Add the input to total
+
+        If the input is greater than max:
+            Set min to input
+        If the input is less than min:
+            Set max to input
+
+    Calculate average as total / 5
+    Calculate interest as total * 0.20
+
+    Print total, average, max, min, interest
+
+End
